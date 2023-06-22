@@ -77,8 +77,8 @@ body {
 
 @keyframes black-kay {
     10% {
-        top: 100px;
-        right: 20%;
+        top: 80px;
+        right: 15%;
         background-color: rgba(0, 0, 0, 0.878);
         
     }
@@ -90,8 +90,8 @@ body {
     }
 
     100% {
-        right: 100%;
-        top: 350px;
+        right: 70%;
+        top: 250px;
         background-color: rgba(0, 0, 0, 0.185);
     }
 }
